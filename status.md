@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Cally Moran
 
 #### Your section leader's name
 
-TODO
+I don't know
 
 #### Project title
 
-TODO
+Road To The League (Likely to change)
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have started coding for my choose your own adventure game although I have not completed very much 
 
 #### What have you not done for your project yet?
 
-TODO
+I still have a lot left to do in terms of story writing and coding 
 
 #### What problems, if any, have you encountered?
 
-TODO
+I am having trouble with my idea, and I emailed my professor and am waiting for a response about changing my idea
