@@ -1,3 +1,9 @@
+#Title of Project: Marvels Newest Avenger?
+#Cally Moran 2021
+#This uses heavily copyrighted items such as the rights to Marvel Comics and makes references to Marvel Movies
+#I am using this material for a final project and do not intend to make money or sell this product
+
+
 answer = input("Would you like to play the game? (yes/no) ")
 
 if answer.lower().strip() == "yes":
